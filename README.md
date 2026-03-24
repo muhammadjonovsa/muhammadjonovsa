@@ -98,10 +98,3 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/muhammadjonovsa/muhammadjonovsa/blob/output/github-contribution-grid-snake.svg" />
-</p>
