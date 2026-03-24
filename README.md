@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saydulloh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Building+useful+mobile+apps;Clean+UI+%7C+Fast+Apps;Open+for+Freelance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cybersecurity+Learner;Building+Secure+Mobile+Apps;Clean+UI+%7C+Fast+Apps;Open+for+Freelance" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learner-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-User-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black"/>
 </p>
 
 ---
@@ -13,9 +18,9 @@
 <td width="50%">
 
 - 📱 Flutter Developer  
+- 🔐 Cybersecurity Enthusiast  
 - 💼 Open for freelance  
 - 🌍 Based in Uzbekistan  
-- 🔥 Passion for mobile apps  
 - ⚡ Fast & clean coding  
 
 </td>
@@ -24,7 +29,7 @@
 
 - 🧠 Problem solver  
 - 🎯 UI/UX focused  
-- 📦 Real-world projects  
+- 🛡️ Security mindset  
 - 📈 Constantly learning  
 - 💡 Turning ideas into apps  
 
@@ -37,7 +42,41 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,linux,vscode,figma,sqlite" />
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+<table>
+<tr>
+<td width="50%">
+
+- 🛡️ Ethical Hacking basics  
+- 🌐 Network Security  
+- 🔍 Bug hunting  
+- 🐧 Kali Linux  
+
+</td>
+
+<td width="50%">
+
+- 📱 Mobile App Security  
+- 🔐 Secure coding  
+- ⚡ API security basics  
+- 🧠 Security mindset  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Security Tools
+
+<p align="center">
+  🐧 Kali Linux • 🛰️ Wireshark • 🛠️ Burp Suite • 🔎 Nmap
 </p>
 
 ---
@@ -77,6 +116,23 @@
 </tr>
 </table>
 
+---
+
+## 📚 Currently Learning
+
+- 🔐 Cybersecurity & Ethical Hacking  
+- 📱 Secure Mobile App Development  
+- 🌍 API Security  
+- ⚡ Advanced Flutter  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become Flutter + Security expert  
+- 🔐 Build secure apps  
+- 💰 Earn from freelance  
+- 🌍 Work globally  
 
 ---
 
@@ -84,10 +140,15 @@
 
 <p align="center">
   <a href="https://t.me/muhammadjonovsa">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-00FF9C?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
   <a href="https://github.com/muhammadjonovsa">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadjonovsa&theme=tokyo-night&hide_border=true" />
+</p>
