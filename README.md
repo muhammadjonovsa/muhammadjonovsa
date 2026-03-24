@@ -37,7 +37,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,linux,vscode,figma,postman,sqlite" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,linux,vscode,figma" />
 </p>
 
 ---
