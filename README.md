@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Developer-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-Developer-42A5F5?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-User-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black"/>
 </p>
 
