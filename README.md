@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saydulloh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cybersecurity+Learner;Building+Secure+Mobile+Apps;Clean+UI+%7C+Fast+Apps;Open+for+Freelance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cybersecurity+Learner;Building+Mobile+Apps;Clean+UI+%7C+Fast+Apps;" />
 </p>
 
 <p align="center">
